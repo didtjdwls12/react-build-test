@@ -6,7 +6,7 @@ import React, { useState } from "react";
 function App() {
   let post = "양성진 블로그";
   let [글제목, 글제목변경] = useState([
-    "build 수정 테스트",
+    "build update 테스트",
     "하하성진이 글",
     "으아아아",
   ]);
